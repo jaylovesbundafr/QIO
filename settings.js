@@ -1,6 +1,6 @@
 global.prefa = ['','!','.',',','🐤','🗿']
 
-global.owner = ['628xxx']
+global.owner = ['2347017055600']
 global.botname = 'Alwaysaqioo'
 global.namaowner = 'Alwaysaqioo'
 global.baileys1 = require('@whiskeysockets/baileys') 
